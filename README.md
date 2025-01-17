@@ -1,7 +1,8 @@
-Applied Machine Learning 
+Applied Machine Learning (INFR11211) 
 
 Explanation
-- This repo contains all details required for the applied machine learning reports.
+- This repo contains all details required for the Applied Machine Learning project reports.
+- Also contains the source codes for the analysis.
 - The steps below describe how to use the code and what each file does.
 
 Disclaimer : All files should run assuming the database path has been set up correctly and you are using Jupyter Notebook Python 3. If a file is taking a while to complete running do not be alarmed.
