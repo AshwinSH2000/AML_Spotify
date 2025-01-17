@@ -16,3 +16,9 @@ Steps
 5) Run SpotifySupervisedLearningWithoutArtist.ipynb : This files contains a list of results with different supervised models using numerical features excluding the artist.
 6) Run SpotifySupervisedLearningWithArtist.ipynb : This files contains a list of results with different supervised models using numerical features, including the self calculated artist weight.
 7) Run Processing&Results.ipynb : This file contains processing and results of supervised models being tested after applying unsupervised learning techniques along with data cleaning for more accurate results.
+
+Group Members
+Kamil Balinski
+Elisabeth Veso
+Swarup Bendre
+Ashwin Harish
